@@ -51,7 +51,7 @@ It provides insights into loan applications, funded amounts, amounts received, b
 ### 1. Summary Dashboard
 ![Bank Loan Summary](YOUR_SUMMARY_IMAGE_URL)
 ### 2. Overview Dashboard
-![Bank Loan Overview](YOUR_OVERVIEW_IMAGE_URL)
+![Bank Loan Overview](https://github.com/shitolednyaneshwari/Bank-Loan-Analysis-PowerBI/blob/main/Overview%20(2).png)
 ### 3. Details Dashboard
 ![Bank Loan Details](YOUR_DETAILS_IMAGE_URL)
 ## 🔄 Project Workflow
