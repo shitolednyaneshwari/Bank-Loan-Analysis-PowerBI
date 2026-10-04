@@ -53,7 +53,7 @@ It provides insights into loan applications, funded amounts, amounts received, b
 ### 2. Overview Dashboard
 ![Bank Loan Overview](https://github.com/shitolednyaneshwari/Bank-Loan-Analysis-PowerBI/blob/main/Overview%20(2).png)
 ### 3. Details Dashboard
-![Bank Loan Details](YOUR_DETAILS_IMAGE_URL)
+![Bank Loan Details](https://github.com/shitolednyaneshwari/Bank-Loan-Analysis-PowerBI/blob/main/Grid%20Detail.png)
 ## 🔄 Project Workflow
 1. Collected the bank loan dataset
 2. Cleaned and transformed the data
