@@ -49,11 +49,11 @@ It provides insights into loan applications, funded amounts, amounts received, b
 - Amount Collection
 ## 📷 Dashboard Preview
 ### 1. Summary Dashboard
-![Bank Loan Summary](Bank_Loan_Summary.png)
+![Bank Loan Summary](YOUR_SUMMARY_IMAGE_URL)
 ### 2. Overview Dashboard
-![Bank Loan Overview](Bank_Loan_Overview.png)
+![Bank Loan Overview](YOUR_OVERVIEW_IMAGE_URL)
 ### 3. Details Dashboard
-![Bank Loan Details](Bank_Loan_Details.png)
+![Bank Loan Details](YOUR_DETAILS_IMAGE_URL)
 ## 🔄 Project Workflow
 1. Collected the bank loan dataset
 2. Cleaned and transformed the data
